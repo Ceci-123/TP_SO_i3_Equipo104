@@ -1,0 +1,42 @@
+Arquitectura:                        x86_64
+modo(s) de operación de las CPUs:    32-bit, 64-bit
+Orden de los bytes:                  Little Endian
+Address sizes:                       48 bits physical, 48 bits virtual
+CPU(s):                              1
+Lista de la(s) CPU(s) en línea:      0
+Hilo(s) de procesamiento por núcleo: 1
+Núcleo(s) por «socket»:              1
+«Socket(s)»                          1
+Modo(s) NUMA:                        1
+ID de fabricante:                    AuthenticAMD
+Familia de CPU:                      23
+Modelo:                              24
+Nombre del modelo:                   AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx
+Revisión:                            1
+CPU MHz:                             2595.124
+BogoMIPS:                            5190.24
+Fabricante del hipervisor:           KVM
+Tipo de virtualización:              lleno
+Caché L1d:                           32 KiB
+Caché L1i:                           64 KiB
+Caché L2:                            512 KiB
+Caché L3:                            4 MiB
+CPU(s) del nodo NUMA 0:              0
+Vulnerability Itlb multihit:         Not affected
+Vulnerability L1tf:                  Not affected
+Vulnerability Mds:                   Not affected
+Vulnerability Meltdown:              Not affected
+Vulnerability Spec store bypass:     Mitigation; Speculative Store Bypass disabled via prctl and seccomp
+Vulnerability Spectre v1:            Mitigation; usercopy/swapgs barriers and __user pointer sanitizatio
+                                     n
+Vulnerability Spectre v2:            Mitigation; Full AMD retpoline, STIBP disabled, RSB filling
+Vulnerability Srbds:                 Not affected
+Vulnerability Tsx async abort:       Not affected
+Indicadores:                         fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat p
+                                     se36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt rdtscp
+                                      lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid tsc_kn
+                                     own_freq pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 x2apic movb
+                                     e popcnt aes xsave avx rdrand hypervisor lahf_lm cr8_legacy abm sse
+                                     4a misalignsse 3dnowprefetch ssbd vmmcall fsgsbase avx2 rdseed clfl
+                                     ushopt arat
+
