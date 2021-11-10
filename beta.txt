@@ -1,3 +1,50 @@
 Calanna Cecilia
 16:07 hs
 IP config IP 192.168.56.1
+Enrique Mendioroz
+
+Windows IP Configuration
+
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::887c:bffe:372c:5c4e%7
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Conexi¢n de  rea local* 11:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : home
+   IPv6 Address. . . . . . . . . . . : 2800:810:599:150c:ddcf:922e:8516:6740
+   IPv6 Address. . . . . . . . . . . : 2800:810:599:150c:e017:63d:e303:ff4d
+   IPv6 Address. . . . . . . . . . . : fdaa:bbcc:ddee:0:ddcf:922e:8516:6740
+   Temporary IPv6 Address. . . . . . : 2800:810:599:150c:31c4:478b:d54:ead1
+   Temporary IPv6 Address. . . . . . : fdaa:bbcc:ddee:0:31c4:478b:d54:ead1
+   Link-local IPv6 Address . . . . . : fe80::ddcf:922e:8516:6740%14
+   IPv4 Address. . . . . . . . . . . : 192.168.0.4
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::8efd:deff:fe8c:311a%14
+                                       192.168.0.1
+
+Tunnel adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+Wed Nov 10 18:58:03 AST 2021
