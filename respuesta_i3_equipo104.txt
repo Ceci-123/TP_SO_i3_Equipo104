@@ -30,6 +30,10 @@ git commit -m "respuestas de GAMMA"
 git push origin HEAD:main
 
 
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
 
-
+git pull origin main
+Git add .
+Git commit - m "lo que sea"
+git push origin ramaAlfa
 
